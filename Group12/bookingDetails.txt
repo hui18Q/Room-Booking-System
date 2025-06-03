@@ -11,3 +11,6 @@ l              chris                         010203040506        0187754418     
 l              chris                         010203040506        0187754418          chris@gmail.com               2024-07-02          Single         2              2468.00        
 l              winson                        010203040578        01122334456         winson@gmail.com              2024-07-04          Single         4              4936.00        
 L              Aw Kak Yi                     990472050000        0125154337          awky@gmail.com                2024-12-25          Deluxe         2              2870.00        
+L              Ki                            980706050412        7896547801          yiii@parent.github.my         0987-56-65          Twin           6              7944.00        
+L              Ki                            980706050412        7896547801          yiii@parent.github.my         0987-56-65          Twin           6              7944.00        
+F              yu                            67890               3456789             fghjkl                        3456789             Deluxe         3              4305.00        

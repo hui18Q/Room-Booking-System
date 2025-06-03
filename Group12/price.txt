@@ -1,3 +1,3 @@
-Single 1234.00
-Twin 1324.00
-Deluxe 1435.00
+Single 2345.00
+Twin 6789.00
+Deluxe 101112.00
