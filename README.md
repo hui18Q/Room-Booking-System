@@ -40,22 +40,6 @@ The Room Booking System provides an intuitive interface for hotel administrators
    - Selects a room type and stay duration.
    - Confirms booking and stores details in a file.
 
-## **Installation**  
-To set up and run the project:  
-1. **Clone the repository:**  
-   ```bash
-   git clone <repository-url>
-   cd RoomBookingSystem
-   ```
-2. **Compile the program:**  
-   ```bash
-   g++ main.cpp -o RoomBookingSystem
-   ```
-3. **Run the executable:**  
-   ```bash
-   ./RoomBookingSystem
-   ```
-
 ## **Usage**  
 - **Admin Mode:**  
   - Log in as an admin to modify pricing and view bookings.  
